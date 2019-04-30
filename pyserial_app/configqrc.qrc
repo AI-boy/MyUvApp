@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="configqrc">
+    <file>heidong.png</file>
+  </qresource>
+</RCC>
